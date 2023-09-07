@@ -1,1 +1,3 @@
 # bubble-sort
+
+This is a basic bubble sort algorithm created in ruby. I didn't use many ruby methods here, mainly just stuck to the basics of nested loops and if statements. I tried using the rocker operator, but just didn't find a good use for it. Happy how it came out. I also learned that you don't need a tmp variable when switching 2 values, I can just use: "arr[j], arr[j+1] = arr[j+1], arr[j]", which just looks amaizing :D
